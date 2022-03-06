@@ -1,0 +1,17 @@
+# Spoken language specific
+
+noun
+verb
+article
+adjective
+pronoun
+numeral
+adverb
+preposition
+conjunction
+interjection
+
+# Other things
+
+greeting
+place
